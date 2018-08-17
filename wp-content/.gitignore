@@ -66,3 +66,10 @@ tags
 #
 *.bak
 *~
+
+# WPML folders needed for the plugin to work properly
+!/plugins/sitepress-multilingual-cms/classes/xml-config/log/
+!/plugins/sitepress-multilingual-cms/templates/xml-config/
+!/plugins/sitepress-multilingual-cms/templates/xml-config/log/
+!/plugins/sitepress-multilingual-cms/vendor/twig/twig/doc/tags/
+!/plugins/wpml-translation-management/classes/translation-proxy/log/
